@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    }
+p{
+    font-size: 100px;
+    color: black;
+    background-color: blanchedalmond;
+    }
+button{
+    width: 10%;
+    height: 40px;
+    border-radius: 5px;
+    opacity: 0.5;
+    color: white;
+    background-color: black;
+
+    }
